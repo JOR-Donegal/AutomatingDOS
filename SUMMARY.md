@@ -1,0 +1,18 @@
+# Table of contents
+
+* [Background](README.md)
+* [Deliverables](deliverables.md)
+* [The Command Line Interface (CLI)](the-command-line-interface-cli.md)
+* [Batch Files](batch-files/README.md)
+  * [Demo 1](batch-files/demo-1.md)
+  * [Demo 2](batch-files/demo-2.md)
+  * [Demo 3](batch-files/demo-3.md)
+  * [Demo 4](batch-files/demo-4.md)
+  * [Demo 5](batch-files/demo-5.md)
+  * [Demo 6](batch-files/demo-6.md)
+  * [Demo 7](batch-files/demo-7.md)
+  * [Demo 8](batch-files/demo-8.md)
+  * [Demo 9](batch-files/demo-9.md)
+  * [Demo 10](batch-files/demo-10.md)
+  * [Demo 11](batch-files/demo-11.md)
+* [Finally](finally.md)
