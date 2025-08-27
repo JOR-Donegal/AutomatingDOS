@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Background](README.md)
-* [Deliverables](deliverables.md)
+  * [Deliverables](background/deliverables.md)
 * [The Command Line Interface (CLI)](the-command-line-interface-cli.md)
 * [Batch Files](batch-files/README.md)
   * [Demo 1](batch-files/demo-1.md)
